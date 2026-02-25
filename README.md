@@ -93,12 +93,6 @@ El ángulo aumenta en incrementos de 60°, lo que genera seis círculos distribu
 
 ---
 
-## Conclusión
-
-Este ejercicio demuestra cómo la programación y la trigonometría pueden utilizarse para crear patrones geométricos simétricos en Blender.  
-La automatización mediante código permite generar figuras complejas con precisión matemática.
-## Resultado en Blender
-
 ![Flor en Blender](flor_blender.png)
 
 ---
@@ -111,3 +105,9 @@ x = r cos(θ)
 y = r sen(θ)
 
 El ángulo aumenta de 60 en 60 grados hasta completar 360°, generando seis círculos distribuidos uniformemente alrededor del círculo central.
+---
+## Conclusión
+
+Este ejercicio demuestra cómo la programación y la trigonometría pueden utilizarse para crear patrones geométricos simétricos en Blender.  
+La automatización mediante código permite generar figuras complejas con precisión matemática.
+## Resultado en Blender
