@@ -92,6 +92,7 @@ Esto permite posicionar cada círculo alrededor del centro.
 El ángulo aumenta en incrementos de 60°, lo que genera seis círculos distribuidos uniformemente alrededor del círculo central, formando la base de la Flor de Vida.
 
 ---
+## Resultado en Blender
 
 ![Flor en Blender](flor_blender.png)
 
@@ -111,4 +112,3 @@ El ángulo aumenta de 60 en 60 grados hasta completar 360°, generando seis cír
 
 Este ejercicio demuestra cómo la programación y la trigonometría pueden utilizarse para crear patrones geométricos simétricos en Blender.  
 La automatización mediante código permite generar figuras complejas con precisión matemática.
-## Resultado en Blender
