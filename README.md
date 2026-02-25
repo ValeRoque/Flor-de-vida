@@ -105,7 +105,8 @@ x = r cos(θ)
 y = r sen(θ)
 
 El ángulo aumenta de 60 en 60 grados hasta completar 360°, generando seis círculos distribuidos uniformemente alrededor del círculo central.
----
+
+
 ## Conclusión
 
 Este ejercicio demuestra cómo la programación y la trigonometría pueden utilizarse para crear patrones geométricos simétricos en Blender.  
