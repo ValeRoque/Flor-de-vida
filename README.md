@@ -2,9 +2,9 @@
 
 ## Introducción
 
-En esta práctica se utiliza Python y la API bpy de Blender para generar una figura compuesta por múltiples círculos distribuidos alrededor de un punto central.
+En esta práctica se utiliza Python y la API bpy de Blender para generar una figura compuesta por varios círculos distribuidos alrededor de un punto central.
 
-Se emplea una estructura while y funciones trigonométricas para calcular la posición de cada círculo.
+Se emplea una estructura while y funciones trigonométricas para calcular matemáticamente la posición de cada círculo en el plano XY.
 
 ---
 
@@ -40,4 +40,21 @@ while angulo_actual < 360:
     )
 
     angulo_actual += 60
+```
+
+---
+
+## Resultado en Blender
+
 ![Flor en Blender](flor_blender.png)
+
+---
+
+## Explicación
+
+Se utiliza la fórmula matemática:
+
+x = r cos(θ)  
+y = r sen(θ)
+
+El ángulo aumenta de 60 en 60 grados hasta completar 360°, generando seis círculos distribuidos uniformemente alrededor del círculo central.
