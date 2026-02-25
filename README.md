@@ -44,12 +44,6 @@ while angulo_actual < 360:
 
 ---
 
-## Resultado en Blender
-
-![Flor de Vida](flor_de_vida.png)
-
----
-
 ## Explicación del Código
 
 ### 1. Importación de librerías
