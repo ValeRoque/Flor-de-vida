@@ -40,3 +40,4 @@ while angulo_actual < 360:
     )
 
     angulo_actual += 60
+![Flor en Blender](flor_blender.png)
